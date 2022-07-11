@@ -1,7 +1,7 @@
 /* Add first-choice font */
 
-@import url();
-@import url();
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100;0,200;0,600;0,900;1,300;1,700&display=swap');
 
 :root {
     --color-primary: #D73953;
