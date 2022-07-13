@@ -31,3 +31,7 @@ body {
 a {
     text-decoration: none;
 }
+
+.section-header {
+    text-align: var(--section-header-align);
+}
